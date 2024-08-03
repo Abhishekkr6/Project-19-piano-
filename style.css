@@ -124,7 +124,7 @@ body {
 
 @media screen and (max-width: 500px) {
   .piano-container {
-    font-size: 1em;
+    font-size: 0.8em;
     transform: translate(-50%, -50%) rotate(90deg);
   }
 }
