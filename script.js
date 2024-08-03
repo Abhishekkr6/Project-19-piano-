@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let pianoContainer = document.getElementsByClassName("piano-container");
 const base = "./audio/";
 const keyBindings = [
@@ -44,7 +44,7 @@ function buttonAnimation(currentKey){
     console.log(`No element found for key: ${currentKey}`); // Debugging line
   }
 }
-=======
+
 let pianoContainer = document.getElementsByClassName("piano-container");
 const base = "./audio/";
 const keyBindings = [
@@ -90,4 +90,3 @@ function buttonAnimation(currentKey){
     console.log(`No element found for key: ${currentKey}`); // Debugging line
   }
 }
->>>>>>> f1ad511 (change 1)
